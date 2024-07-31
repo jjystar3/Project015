@@ -1,0 +1,880 @@
+1. 검색페이지 - 모달 -- 장소.png
+1. 검색페이지 - 모달 --날짜.png
+1.JAVA
+		10장_인터페이스.pdf
+		11장_기본클래스.pdf
+		1장_자바시작하기.pdf
+		2장_변수와자료형.pdf
+		3장_연산자.pdf
+		4장_제어문.pdf
+		5장_클래스와객체1.pdf
+		6장_클래스와객체2.pdf
+		7장_배열.pdf
+		8장_상속과다형성.pdf
+		9장_추상클래스.pdf
+1.JAVA-20240321T003818Z-001.zip
+1.JAVA-20240417T081914Z-001.zip
+1.프로그래밍 언어 활용 및 응용 시험지(본).pdf
+10장_로그인.pdf
+11장_공공API사용하기.pdf
+12장_API서버만들기.pdf
+12장_컬렉션프레임워크.pdf
+12장_컬렉션프레임워크.pdf-20240418T021822Z-001.zip
+13장_내부클래스,람다식,스트림 (1).pdf
+13장_내부클래스,람다식,스트림 (2).pdf
+13장_내부클래스,람다식,스트림 (3).pdf
+13장_내부클래스,람다식,스트림.pdf
+14장_예외처리 (1).pdf
+14장_예외처리.pdf
+15장_자바입출력 (1).pdf
+15장_자바입출력.pdf
+1장_ChatGPT란.pdf
+1장_Maria 데이터베이스 설치.pdf
+1장_프로젝트를위한준비.pdf
+2.데이터베이스 구현 답지(본) (1).sql
+2.데이터베이스 구현 답지(본).sql
+2.데이터베이스 구현 시험지(본).pdf
+2021_Login_with_naver_guidelines_Kr.zip
+2022년 10월 22일 GTQ(일러스트) 기출문제
+		GI10-1A.pdf
+		GI10-1B.pdf
+		GI10-2A.pdf
+		GI10-2B.pdf
+		GI10-3B.pdf
+2022년 10월 22일 GTQ(포토샵) 기출문제
+		GP10-1A
+				GP10-1A.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.jpg
+						1급-11.jpg
+						1급-12.jpg
+						1급-13.jpg
+						1급-14.jpg
+						1급-15.jpg
+						1급-16.jpg
+						1급-17.jpg
+						1급-2.jpg
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.jpg
+						1급-6.jpg
+						1급-7.jpg
+						1급-8.jpg
+						1급-9.jpg
+		GP10-1B
+				GP10-1B.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.jpg
+						1급-11.jpg
+						1급-12.jpg
+						1급-13.jpg
+						1급-14.jpg
+						1급-15.jpg
+						1급-16.jpg
+						1급-17.jpg
+						1급-2.jpg
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.jpg
+						1급-6.jpg
+						1급-7.jpg
+						1급-8.jpg
+						1급-9.jpg
+		GP10-2A
+				문제파일
+						GP10-2A.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP10-2B
+				문제파일
+						GP10-2B.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP10-3B
+				문제파일
+						GP10-3B.pdf
+				소스파일
+						3급-1.jpg
+						3급-2.jpg
+						3급-3.jpg
+						3급-4.jpg
+						3급-5.jpg
+2022년 11월 26일 GTQ(포토샵) 기출문제
+		GP11-1A
+				GP11-1A.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.jpg
+						1급-11.jpg
+						1급-12.jpg
+						1급-13.jpg
+						1급-14.jpg
+						1급-15.jpg
+						1급-16.jpg
+						1급-17.jpg
+						1급-2.jpg
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.jpg
+						1급-6.jpg
+						1급-7.jpg
+						1급-8.jpg
+						1급-9.jpg
+						소스파일.zip
+		GP11-1B
+				GP11-1B.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.jpg
+						1급-11.jpg
+						1급-12.jpg
+						1급-13.jpg
+						1급-14.jpg
+						1급-15.jpg
+						1급-16.jpg
+						1급-17.jpg
+						1급-2.jpg
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.jpg
+						1급-6.jpg
+						1급-7.jpg
+						1급-8.jpg
+						1급-9.jpg
+		GP11-2A
+				GP11-2A.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+						소스파일.zip
+		GP11-2B
+				GP11-2B.pdf
+				소스파일
+						2B_소스파일.zip
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP11-3B
+				GP11-3B.pdf
+				소스파일
+						3급-1.jpg
+						3급-2.jpg
+						3급-3.jpg
+						3급-4.jpg
+						3급-5.jpg
+2022년 12월 24일 GTQ(포토샵) 기출문제
+		GP12-1A
+				문제파일
+						GP12-1A.pdf
+				소스파일
+						1급-1.JPG
+						1급-10.JPG
+						1급-11.jpg
+						1급-12.JPG
+						1급-13.JPG
+						1급-14.JPG
+						1급-15.JPG
+						1급-16.JPG
+						1급-17.jpg
+						1급-2.JPG
+						1급-3.jpg
+						1급-4.JPG
+						1급-5.JPG
+						1급-6.JPG
+						1급-7.JPG
+						1급-8.JPG
+						1급-9.JPG
+		GP12-1B
+				문제파일
+						GP12-1B.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.JPG
+						1급-11.jpg
+						1급-12.JPG
+						1급-13.JPG
+						1급-14.JPG
+						1급-15.JPG
+						1급-16.JPG
+						1급-17.JPG
+						1급-2.JPG
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.JPG
+						1급-6.jpg
+						1급-7.JPG
+						1급-8.JPG
+						1급-9.jpg
+		GP12-2A
+				문제파일
+						GP12-2A.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP12-2B
+				문제파일
+						GP12-2B.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP12-3B
+				문제파일
+						GP12-3B.pdf
+				소스파일
+						3급-1.jpg
+						3급-2.jpg
+						3급-3.jpg
+						3급-4.jpg
+						3급-5.jpg
+2022년 12월 24일 GTQi(일러스트) 기출문제
+		GI12-1A.pdf
+		GI12-1B.pdf
+		GI12-2A.pdf
+		GI12-2B.pdf
+		GI12-3B.pdf
+2022년 2월 26일 GTQi(일러스트) 기출문제
+		GI01-1A.pdf
+		GI01-1B.pdf
+		GI01-2A.pdf
+		GI01-2B.pdf
+		GI01-3B.pdf
+2022년 4월 23일 GTQi(일러스트) 기출문제
+		GI04-1A.pdf
+		GI04-1B.pdf
+		GI04-2A.pdf
+		GI04-2B.pdf
+		GI04-3B.pdf
+2022년 6월 25일 GTQi(일러스트) 기출문제
+		GI06-1A.pdf
+		GI06-1B.pdf
+		GI06-2A.pdf
+		GI06-2B.pdf
+		GI06-3B.pdf
+2022년 8월 27일 GTQ(일러스트) 기출문제
+		GI08-1A.pdf
+		GI08-1B.pdf
+		GI08-2A.pdf
+		GI08-2B.pdf
+		GI08-3B.pdf
+2022년 8월 27일 GTQ(포토샵) 기출문제
+		GP08-1A
+				문제파일
+						GP08-1A.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.jpg
+						1급-11.jpg
+						1급-12.jpg
+						1급-13.jpg
+						1급-14.jpg
+						1급-15.jpg
+						1급-16.jpg
+						1급-17.jpg
+						1급-2.jpg
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.jpg
+						1급-6.jpg
+						1급-7.jpg
+						1급-8.jpg
+						1급-9.jpg
+		GP08-1B
+				문제파일
+						GP08-1B.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.jpg
+						1급-11.jpg
+						1급-12.jpg
+						1급-13.jpg
+						1급-14.jpg
+						1급-15.jpg
+						1급-16.jpg
+						1급-17.jpg
+						1급-2.jpg
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.jpg
+						1급-6.jpg
+						1급-7.jpg
+						1급-8.jpg
+						1급-9.jpg
+		GP08-2A
+				문제파일
+						GP08-2A.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP08-2B
+				문제파일
+						GP08-2B.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP08-3B
+				문제파일
+						GP08-3B.pdf
+				소스파일
+						3급-1.jpg
+						3급-2.jpg
+						3급-3.jpg
+						3급-4.jpg
+						3급-5.jpg
+2022년 9월 24일 GTQ(포토샵) 기출문제
+		GP09-1A
+				GP09-1A.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.jpg
+						1급-11.jpg
+						1급-12.jpg
+						1급-13.jpg
+						1급-14.jpg
+						1급-15.jpg
+						1급-16.jpg
+						1급-17.jpg
+						1급-2.jpg
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.jpg
+						1급-6.jpg
+						1급-7.jpg
+						1급-8.jpg
+						1급-9.jpg
+		GP09-1B
+				GP09-1B.pdf
+				소스파일
+						1급-1.jpg
+						1급-10.jpg
+						1급-11.jpg
+						1급-12.jpg
+						1급-13.jpg
+						1급-14.jpg
+						1급-15.jpg
+						1급-16.jpg
+						1급-17.jpg
+						1급-2.jpg
+						1급-3.jpg
+						1급-4.jpg
+						1급-5.jpg
+						1급-6.jpg
+						1급-7.jpg
+						1급-8.jpg
+						1급-9.jpg
+		GP09-2A
+				문제파일
+						GP09-2A.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP09-2B
+				문제파일
+						GP09-2B.pdf
+				소스파일
+						2급-1.jpg
+						2급-10.jpg
+						2급-11.jpg
+						2급-12.jpg
+						2급-13.jpg
+						2급-2.jpg
+						2급-3.jpg
+						2급-4.jpg
+						2급-5.jpg
+						2급-6.jpg
+						2급-7.jpg
+						2급-8.jpg
+						2급-9.jpg
+		GP09-3B
+				문제파일
+						GP09-3B.pdf
+				소스파일
+						3급-1.jpg
+						3급-2.jpg
+						3급-3.jpg
+						3급-4.jpg
+						3급-5.jpg
+2024 방특 GTQ 수업자료.zip
+2장_스프링 프로젝트 만들기.pdf
+2장_테이블 만들기 (1).pdf
+2장_테이블 만들기.pdf
+3장_MariaDB와 SpringDataJPA (1).pdf
+3장_MariaDB와 SpringDataJPA.pdf
+3장_데이터 추가하기.pdf
+4장_배포 자동화.pdf
+4장_서블릿과 스프링MVC.pdf
+4장_함수,JOIN,키 (1).pdf
+4장_함수,JOIN,키.pdf
+5-2. 게시물 데이터(10만건).sql
+5.Spring Boot & Rest API 시험지(본).pdf
+5장. 뷰,인덱스 (1).pdf
+5장. 뷰,인덱스.pdf
+5장_S3.pdf
+5장_Thymeleaf (1).pdf
+5장_Thymeleaf.pdf
+6장_데이터베이스 설계.pdf
+6장_컨트롤러 (1).pdf
+6장_컨트롤러.pdf
+7장_프로젝트구조만들기.pdf
+9장_AJAX로댓글처리 (1).pdf
+9장_AJAX로댓글처리.pdf
+adksetup.exe
+adkwinpesetup.exe
+AdobeColor-DeBug_Dragons.jpeg
+apples-2788599_1280 (1).jpg
+apples-2788599_1280 (2).jpg
+bookmark_24dp_FILL0_wght400_GRAD0_opsz24 1.png
+buddha-221742_1920.jpg
+buddha-6027762_1920 (1).jpg
+buddha-6027762_1920.jpg
+contract_24dp_FILL0_wght400_GRAD0_opsz24 1.png
+dbeaver-ce-24.0.3-x86_64-setup.exe
+desktop.ini
+eclipse-inst-jre-win64 (1).exe
+eclipse-inst-jre-win64.exe
+eclipse-java-2024-03-R-win32-x86_64.zip
+EWEEEW-removebg-preview (1).png
+EWEEEW-removebg-preview.png
+Git-2.43.0-64-bit.exe
+Git-2.45.2-64-bit.exe
+GmarketSansOTF.zip
+Group 55.png
+GTQ-2022년 4월-12월 (1).zip
+GTQ-2022년 4월-12월.zip
+home_24dp_FILL0_wght400_GRAD0_opsz24 1.png
+housing-154839_640 (1).png
+housing-154839_640.png
+ideaIC-2024.1.4.exe
+jdk-17_windows-x64_bin (1).exe
+jdk-17_windows-x64_bin (2).exe
+jdk-17_windows-x64_bin.exe
+jenkins.msi
+jon-flobrant-lRSChvh1Mhs-unsplash.jpg
+KakaoTalk_Setup (1).exe
+KakaoTalk_Setup (2).exe
+KakaoTalk_Setup (3).exe
+KakaoTalk_Setup.exe
+kakao_login.zip
+korean-food-1534324_640.png
+living-room-8800183_1280.jpg
+mariadb-11.3.2-winx64.msi
+mariadb-11.4.2-winx64.msi
+maruburi (1).zip
+maruburi (2)
+		OTF
+				MaruBuri-Bold.otf
+				MaruBuri-ExtraLight.otf
+				MaruBuri-Light.otf
+				MaruBuri-Regular.otf
+				MaruBuri-SemiBold.otf
+		TTF
+				MaruBuri-Bold.ttf
+				MaruBuri-ExtraLight.ttf
+				MaruBuri-Light.ttf
+				MaruBuri-Regular.ttf
+				MaruBuri-SemiBold.ttf
+maruburi (2).zip
+maruburi (3).zip
+maruburi (4)
+		OTF
+				MaruBuri-Bold.otf
+				MaruBuri-ExtraLight.otf
+				MaruBuri-Light.otf
+				MaruBuri-Regular.otf
+				MaruBuri-SemiBold.otf
+		TTF
+				MaruBuri-Bold.ttf
+				MaruBuri-ExtraLight.ttf
+				MaruBuri-Light.ttf
+				MaruBuri-Regular.ttf
+				MaruBuri-SemiBold.ttf
+maruburi (4).zip
+maruburi.zip
+Microsoft SQL Server 2008 R2 SP2 Express Install failed 오류 해결(CBT 버전).hwp
+node-v20.12.2-x64.msi
+Noto_Sans_KR (1).zip
+Noto_Sans_KR (2).zip
+Noto_Sans_KR.zip
+OBS-Studio-30.0.2-Full-Installer-x64.exe
+person_24dp_FILL0_wght400_GRAD0_opsz24 1.png
+Photoshop_Set-Up (1).exe
+Photoshop_Set-Up.exe
+Postman-win64-Setup.exe
+SlackSetup.exe
+SQLEXPR_x64_KOR.exe
+SQLEXPR_x86_KOR.exe
+stars-7249785_1280.jpg
+startbootstrap-simple-sidebar-gh-pages
+		assets
+				favicon.ico
+		css
+				styles.css
+		index.html
+		js
+				scripts.js
+startbootstrap-simple-sidebar-gh-pages.zip
+startup-594090_1280.jpg
+test (1).png
+test.png
+Test5_M.zip
+user_accessKeys.csv
+Vrew-Installer-1.13.2.exe
+VSCodeUserSetup-x64-1.86.2.exe
+waves-3473335_1280.jpg
+★GTQ 포토샵 1급 교제 소스 (1).zip
+그래픽 수업 자료
+		grunge-abstract-background.jpg
+		그라데이션 활용.psd
+		나뭇잎.jpeg
+		녹차라떼.jpeg
+		단풍.png
+		달.png
+		딸기요거트.jpg
+		레이어마스크 활용.psd
+		맥주.png
+		모델.jpg
+		발표이미지.jpeg
+		밤하늘.jpeg
+		브런치.jpg
+		사람_픽토그램.png
+		사진_남자.jpg
+		사진_남자2.jpg
+		사진_소녀.jpg
+		사진_아보카도.jpg
+		성명_입사지원서(경력기술서, 가이드첨부).hwp
+		아트웍_남자.jpg
+		애플워치.jpg
+		오렌지스니커즈.jpg
+		워크룸.jpg
+		커피잔.jpeg
+		커피잔_클리핑마스크.psd
+		토끼_투명.png
+그래픽 수업 자료 (1).zip
+그래픽 수업 자료.zip
+기상청5_동네예보 통보문 조회서비스_오픈API활용가이드
+		기상청5_동네예보 통보문 조회서비스_오픈API활용가이드.docx
+		기상청5_동네예보 통보문 조회서비스_오픈API활용가이드_지점목록.xlsx
+기상청5_동네예보 통보문 조회서비스_오픈API활용가이드.zip
+로고_그린베베-001.png
+수업자료 (1).zip
+수업자료.zip
+수업자료1.zip
+이미지 (1).zip
+이미지.zip
+출석3.jpg
+카드뉴스_240604-001.jpg
+컴활2급 실기 예제
+		1.기본작업
+				1.자료입력.xlsx
+				2.셀서식.xlsx
+				3.조건부서식.xlsx
+				4.자동필터.xlsx
+				5.고급필터.xlsx
+				6.텍스트나누기.xlsx
+				7.데이터가져오기.xlsx
+				8.그림복사.xlsx
+				마라톤결과.txt
+				수시모집현황.txt
+				채용정보현황.txt
+		10.무료동영상강의
+				유튜브 URL.BAK
+				유튜브 URL.hwp
+		11.문제및정답파일(강사용)
+				1.기본작업
+						1.자료입력-.xlsx
+						2.셀서식.xlsx
+						3.조건부서식.xlsx
+						4.자동필터.xlsx
+						5.고급필터.xlsx
+						6.텍스트나누기.xlsx
+						7.데이터가져오기.xlsx
+						8.그림복사.xlsx
+						마라톤결과.txt
+						수시모집현황.txt
+						채용정보현황.txt
+				2.계산작업
+						1.수식.xlsx
+						2.수학삼각함수.xlsx
+						3.통계함수.xlsx
+						4.텍스트함수.xlsx
+						5.날짜시간함수.xlsx
+						6.데이터베이스함수.xlsx
+						7.논리함수.xlsx
+						8.찾기참조함수.xlsx
+				3.분석작업
+						1.정렬.xlsx
+						2.부분합.xlsx
+						3.피벗테이블.xlsx
+						4.목표값찾기.xlsx
+						5.시나리오.xlsx
+						6.데이터표.xlsx
+						7.통합.xlsx
+				4.기타작업
+						1.매크로.xlsm
+						2.차트.xlsx
+				5.모의고사
+						1.기출유형모의고사(11~15회)_문제.pdf
+						1기출유형모의고사11-15회_정답 및 해설.pdf
+						기출유형모의고사1(문제).xlsm
+						기출유형모의고사1(정답).xlsm
+						기출유형모의고사10(문제).xlsm
+						기출유형모의고사10(정답).xlsm
+						기출유형모의고사11(문제).xlsm
+						기출유형모의고사11(정답).xlsm
+						기출유형모의고사12(문제).xlsm
+						기출유형모의고사12(정답).xlsm
+						기출유형모의고사13(문제).xlsm
+						기출유형모의고사13(정답).xlsm
+						기출유형모의고사14(문제).xlsm
+						기출유형모의고사14(정답).xlsm
+						기출유형모의고사15(문제).xlsm
+						기출유형모의고사15(정답).xlsm
+						기출유형모의고사2(문제).xlsm
+						기출유형모의고사2(정답).xlsm
+						기출유형모의고사3(문제).xlsm
+						기출유형모의고사3(정답).xlsm
+						기출유형모의고사4(문제).xlsm
+						기출유형모의고사4(정답).xlsm
+						기출유형모의고사5(문제).xlsm
+						기출유형모의고사5(정답).xlsm
+						기출유형모의고사6(문제).xlsm
+						기출유형모의고사6(정답).xlsm
+						기출유형모의고사7(문제).xlsm
+						기출유형모의고사7(정답).xlsm
+						기출유형모의고사8(문제).xlsm
+						기출유형모의고사8(정답).xlsm
+						기출유형모의고사9(문제).xlsm
+						기출유형모의고사9(정답).xlsm
+						예약현황.txt
+						판매현황.txt
+				6.기출문제
+						기출문제10회(문제).xlsm
+						기출문제10회(정답).xlsm
+						기출문제1회(문제).xlsm
+						기출문제1회(정답).xlsm
+						기출문제2회(문제).xlsm
+						기출문제2회(정답).xlsm
+						기출문제3회(문제).xlsm
+						기출문제3회(정답).xlsm
+						기출문제4회(문제).xlsm
+						기출문제4회(정답).xlsm
+						기출문제5회(문제).xlsm
+						기출문제5회(정답).xlsm
+						기출문제6회(문제).xlsm
+						기출문제6회(정답).xlsm
+						기출문제7회(문제).xlsm
+						기출문제7회(정답).xlsm
+						기출문제8회(문제).xlsm
+						기출문제8회(정답).xlsm
+						기출문제9회(문제).xlsm
+						기출문제9회(정답).xlsm
+						하프마라톤결과.txt
+		2.계산작업
+				1.수식.xlsx
+				2.수학삼각함수.xlsx
+				3.통계함수.xlsx
+				4.텍스트함수.xlsx
+				5.날짜시간함수.xlsx
+				6.데이터베이스함수.xlsx
+				7.논리함수.xlsx
+				8.찾기참조함수.xlsx
+		2024컴활2급실기.exe
+		3.분석작업
+				1.정렬.xlsx
+				2.부분합.xlsx
+				3.피벗테이블.xlsx
+				4.목표값찾기.xlsx
+				5.시나리오.xlsx
+				6.데이터표.xlsx
+				7.통합.xlsx
+		4.기타작업
+				1.매크로.xlsm
+				2.차트.xlsx
+		5.모의고사
+				1.기출유형모의고사(11~15회)_문제.pdf
+				1기출유형모의고사11-15회_정답 및 해설.pdf
+				기출유형모의고사1(문제).xlsm
+				기출유형모의고사1(정답).xlsm
+				기출유형모의고사10(문제).xlsm
+				기출유형모의고사10(정답).xlsm
+				기출유형모의고사11(문제).xlsm
+				기출유형모의고사11(정답).xlsm
+				기출유형모의고사12(문제).xlsm
+				기출유형모의고사12(정답).xlsm
+				기출유형모의고사13(문제).xlsm
+				기출유형모의고사13(정답).xlsm
+				기출유형모의고사14(문제).xlsm
+				기출유형모의고사14(정답).xlsm
+				기출유형모의고사15(문제).xlsm
+				기출유형모의고사15(정답).xlsm
+				기출유형모의고사2(문제).xlsm
+				기출유형모의고사2(정답).xlsm
+				기출유형모의고사3(문제).xlsm
+				기출유형모의고사3(정답).xlsm
+				기출유형모의고사4(문제).xlsm
+				기출유형모의고사4(정답).xlsm
+				기출유형모의고사5(문제).xlsm
+				기출유형모의고사5(정답).xlsm
+				기출유형모의고사6(문제).xlsm
+				기출유형모의고사6(정답).xlsm
+				기출유형모의고사7(문제).xlsm
+				기출유형모의고사7(정답).xlsm
+				기출유형모의고사8(문제).xlsm
+				기출유형모의고사8(정답).xlsm
+				기출유형모의고사9(문제).xlsm
+				기출유형모의고사9(정답).xlsm
+				예약현황.txt
+				판매현황.txt
+		6.기출문제
+				기출문제10회(문제).xlsm
+				기출문제10회(정답).xlsm
+				기출문제1회(문제).xlsm
+				기출문제1회(정답).xlsm
+				기출문제2회(문제)-.xlsm
+				기출문제2회(정답).xlsm
+				기출문제3회(문제).xlsm
+				기출문제3회(정답).xlsm
+				기출문제4회(문제).xlsm
+				기출문제4회(정답).xlsm
+				기출문제5회(문제).xlsm
+				기출문제5회(정답).xlsm
+				기출문제6회(문제).xlsm
+				기출문제6회(정답).xlsm
+				기출문제7회(문제).xlsm
+				기출문제7회(정답).xlsm
+				기출문제8회(문제).xlsm
+				기출문제8회(정답).xlsm
+				기출문제9회(문제).xlsm
+				기출문제9회(정답).xlsm
+				하프마라톤결과.txt
+		7.함수집중연습
+				0.함수집중연습.pdf
+				1.수학삼각함수.xlsm
+				2.통계함수.xlsm
+				3.텍스트함수.xlsm
+				4.날짜시간함수.xlsm
+				5.데이터베이스함수.xlsm
+				6.논리함수.xlsm
+				7.찾기참조함수.xlsm
+		8.함수사전
+				0.함수사전_컴활2급.pdf
+				01 날짜시간함수.xlsx
+				02 수학삼각함수.xlsx
+				03 통계함수.xlsx
+				04 텍스트함수.xlsx
+				05 찾기참조함수.xlsx
+				06 데이터베이스함수.xlsx
+				07 논리함수.xlsx
+				함수사전_컴활2급.hwp
+		9.자동채점프로그램
+				성안당_컴활2급채점프로그램.EXE
+				웹사이트 채점 특징.hwp
+				자동채점프로그램 에러 해결 참고사항.hwp
+컴활2급 실기 예제.zip
+포스터_그린플리마켓 (1).pdf
+포스터_그린플리마켓.pdf
+포스터_수박축제-001.jpg
+포토샵 카드뉴스 마스크 예제 (1).zip
+포토샵 카드뉴스 마스크 예제.zip
+포트폴리오_예시.pptx

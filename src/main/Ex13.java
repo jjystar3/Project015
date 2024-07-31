@@ -11,10 +11,34 @@ public class Ex13 {
 		// 파일의 경로, 크기 등 정보를 확인하거나 파일을 생성할 수 있음
 		
 		// newfile.txt와 연결된 파일 클래스 생성
-		File file = new File("C:\\JeongJuYoung\\newfile.txt");
+//		File file = new File("C:\\JeongJuYoung\\newfile.txt");
+		
+		// 디렉토리
+		File dir = new File("C:\\\\JeongJuYoung");
+		
+		System.out.println(dir.isDirectory());
+		
+		// 폴더 밑에 있는 파일 목록
+		File[] files = dir.listFiles();
+		
+		for(File f : files) {
+			System.out.println(f.toString());
+		}
 
+		// 파일 삭제
+//		file.delete();
+		
 		//실제 파일 생성
-		file.createNewFile();
+//		file.createNewFile();
+		
+		//파일 속성 보기
+//		System.out.println(file.isFile()); // 파일인지?
+//		System.out.println(file.isDirectory()); // 폴더인지?
+//		System.out.println(file.getName()); // 파일이름
+//		System.out.println(file.getAbsolutePath()); // 파일경로
+//		System.out.println(file.getPath()); // 파일경로
+//		System.out.println(file.canRead()); // 읽을수 있는지?
+//		System.out.println(file.canWrite()); // 쓸수 있는지?
 		
 	}
 
