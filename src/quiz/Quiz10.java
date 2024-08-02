@@ -36,3 +36,15 @@ public class Quiz10 {
 
 	}
 }
+
+// 호출 순서
+// main()
+// factorial(3)
+// 3 * factorial(2)
+// factorial(1)
+
+// 완료 순서
+// factorial(1)
+// 3 * factorial(2)
+// factorial(3)
+// main()
